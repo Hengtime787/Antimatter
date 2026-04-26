@@ -1,5 +1,5 @@
 # What is Antimatter
-Antimatter is my little side project designed to help connect the different parts of desktop enviroments / random Archlinux (Hyprland specifically) rices to have the same styles/behaviour, and link them all together in an easy way with a script wrapper or seomthing as well. The name _Antimatter_ is inspired by the starships in _Star Trek_, which have a Warp core (which runs on an Antimatter/Matter reaction), and _Antimatter_ is meant to be the core of your system theming (maybe will be expanded later as well!).
+Antimatter is my little side project designed to help connect the different parts of desktop enviroments / random Archlinux (Hyprland specifically) rices to have the same styles/behaviour, and link them all together in an easy way with a script wrapper or seomthing as well. The name _Antimatter_ is inspired by the starships in _Star Trek_, which have a Warp core (which runs on an Antimatter/Matter reaction), and _Antimatter_ is meant to be the core of your system theming (maybe will be expanded later as well!). Hoping to make some waybar --> applets integration fisrst, and make some applets that when launched will read the waybar style file you have currently, and use the colours and general style from that for itself.
 
 # Completed
 Pretty much nothing is done right now, just the ideas. 
