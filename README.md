@@ -1,4 +1,4 @@
-(WIP) Antimatter is a command line tool (ctl) that will be used for controlling various existing terminal applications, interfaces, and tools (eg. nmcli, bluetoothctl), and make them accessable in one place. Built with argparse
+(WIP) Antimatter is a command line tool (ctl) that will be used for controlling various existing terminal applications, interfaces, and tools (eg. nmcli, bluetoothctl), and make them accessable in one place. Built with _Typer_.
 
 --Todo--
 Next Up After completion --
