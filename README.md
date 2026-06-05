@@ -1,17 +1,10 @@
-# What is Antimatter
-Antimatter is my little side project designed to help connect the different parts of desktop enviroments / random Archlinux (Hyprland specifically) rices to have the same styles/behaviour, and link them all together in an easy way with a script wrapper or seomthing as well. The name _Antimatter_ is inspired by the starships in _Star Trek_, which have a Warp core (which runs on an Antimatter/Matter reaction), and _Antimatter_ is meant to be the core of your system theming (maybe will be expanded later as well!). Hoping to make some waybar --> applets integration fisrst, and make some applets that when launched will read the waybar style file you have currently, and use the colours and general style from that for itself.
+(WIP) Antimatter is a command line tool (ctl) that will be used for controlling various existing terminal applications, interfaces, and tools (eg. nmcli, bluetoothctl), and make them accessable in one place.
 
-# Completed
-Pretty much nothing is done right now, just the ideas. 
+--Todo--
+Next Up After completion --
+- Style hub that connects waybar with rofi/wofi, kitty, and other themable programs, using one central css file,
 
-# To do (soon, longer term stuff idk)
-- Create Symlink to swithc the themes with a localised colours.conf and maybe some other styling things.
-- Command line tool maybe _Antimatterctl_ or something later.
-- Make Waybar style.css that connects to the antimatter symlink.
-  
-# List of things to connect to
-Waybar, Rofi, 
 
-# List of things to maybe connect to
 
-Wofi, Hyprland, Pipewire/Pulseaudio (maybe Pipewire-Pulse, idk).
+Low Priority-
+-A GUI Interface for controlling these 
