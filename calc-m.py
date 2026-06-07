@@ -1,6 +1,5 @@
 import typer
 
-
 def main(num1: float, num2: float, divide: bool = False, add: bool = False, subtract: bool = False, multiply: bool = False):
     """
     A Simple Calculator. Input one number, a space, and then another, followed by your operation flag.
