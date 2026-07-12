@@ -38,7 +38,7 @@ app.add_typer(player, name="player")
 
 tools = typer.Typer(no_args_is_help=True, help="""
 Various productivity utilities
-"""
+""")
 app.add_typer(tools, name="tools")
 # BT APPS
 power = typer.Typer(no_args_is_help=True)

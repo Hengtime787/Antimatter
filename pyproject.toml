@@ -1,2 +1,9 @@
 [project]
 name = "Antimatter"
+version = "1.0.0"
+dependencies = [
+    "typer"
+]
+
+[project.scripts]
+amctl = "amctl.main:app"
