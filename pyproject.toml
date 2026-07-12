@@ -6,4 +6,4 @@ dependencies = [
 ]
 
 [project.scripts]
-amctl = "amctl.main:app"
+amctl = "main:app"
